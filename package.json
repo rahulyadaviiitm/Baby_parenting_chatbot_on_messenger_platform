@@ -1,0 +1,21 @@
+{
+  "name": "babybot",
+  "version": "1.0.0",
+  "description": "baby parenting bot",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rahulyadaviiitm"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "rahul yadav",
+  "license": "ISC"
+}
